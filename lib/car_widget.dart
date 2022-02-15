@@ -10,7 +10,7 @@ Widget buildCar(Car car, int index){
         Radius.circular(15),
       ),
     ),
-    padding: EdgeInsets.all(16),
+    padding: EdgeInsets.all(10),
     margin: EdgeInsets.only(right: index != null ? 16 : 0, left: index == 0 ? 16 : 0),
     width: 220,
     child: Column(

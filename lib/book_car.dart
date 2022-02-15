@@ -194,7 +194,7 @@ class _BookCarState extends State<BookCar> {
                           children: [
                             buildPricePerPeriod(
                               "12",
-                              "4.350",
+                              "4.35",
                               true,
                             ),
                             SizedBox(
@@ -202,7 +202,7 @@ class _BookCarState extends State<BookCar> {
                             ),
                             buildPricePerPeriod(
                               "6",
-                              "4.800",
+                              "4.80",
                               false,
                             ),
                             SizedBox(
@@ -210,13 +210,13 @@ class _BookCarState extends State<BookCar> {
                             ),
                             buildPricePerPeriod(
                               "1",
-                              "5.100",
+                              "5.10",
                               false,
                             ),
                           ],
                         ),
                       ),
-                    ],
+                    ]
                   ),
                 ),
               ),
@@ -304,7 +304,7 @@ class _BookCarState extends State<BookCar> {
                       ),
                     ),
                     SizedBox(
-                      width: 6,
+                      width: 7,
                     ),
                     Text(
                       "per month",
@@ -333,7 +333,7 @@ class _BookCarState extends State<BookCar> {
                     style: TextStyle(
                       color: Colors.white,
                       fontWeight: FontWeight.bold,
-                      fontSize: 16,
+                      fontSize: 10,
                     ),
                   ),
                 ),
@@ -348,7 +348,7 @@ class _BookCarState extends State<BookCar> {
   Widget buildPricePerPeriod(String months, String price, bool selected) {
     return Expanded(
       child: Container(
-        height: 110,
+        height: 130,
         padding: EdgeInsets.all(16),
         decoration: BoxDecoration(
           color: selected ? kPrimaryColor : Colors.white,
@@ -371,9 +371,7 @@ class _BookCarState extends State<BookCar> {
                 fontWeight: FontWeight.bold,
               ),
             ),
-            Expanded(
-              child: Container(),
-            ),
+
             Text(
               price,
               style: TextStyle(
@@ -406,7 +404,7 @@ class _BookCarState extends State<BookCar> {
       ),
       padding: EdgeInsets.symmetric(
         vertical: 8,
-        horizontal: 16,
+        horizontal: 10,
       ),
       margin: EdgeInsets.only(right: 16),
       child: Column(

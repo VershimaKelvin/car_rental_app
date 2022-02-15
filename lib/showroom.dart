@@ -173,7 +173,7 @@ class _ShowroomState extends State<Showroom> {
                               Radius.circular(15),
                             ),
                           ),
-                          padding: EdgeInsets.all(24),
+                          padding: EdgeInsets.all(15),
                           height: 100,
                           child: Row(
                             mainAxisAlignment: MainAxisAlignment.spaceBetween,

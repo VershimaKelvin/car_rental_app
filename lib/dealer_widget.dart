@@ -9,7 +9,7 @@ Widget buildDealer(Dealer dealer, int index){
         Radius.circular(15),
       ),
     ),
-    padding: EdgeInsets.all(16),
+    padding: EdgeInsets.all(14),
     margin: EdgeInsets.only(right: 16, left: index == 0 ? 16 : 0),
     width: 150,
     child: Column(
