@@ -40,3 +40,11 @@ The Project is now ready to be tested on a real device or Emulator, to run app, 
 <p align="center">
     <img src="assets/images/runmain.png">
 </p>
+
+
+## ScreenShots
+Here are Screenshoots taken from an android device
+
+                 |          |  
+:-------------------------:|:-------------------------:|:-------------------------:
+![]("assets/images/carRent1.jpg")|![]("assets/images/carRent2.jpg")|![]("assets/images/carRent3.jpg")
