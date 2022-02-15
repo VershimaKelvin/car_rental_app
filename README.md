@@ -29,3 +29,9 @@ open the project in your IDE and run flutter pug get in the terminal or from the
 <p align="center">
     <img src="assets/images/pubget.png">
 </p>
+
+this should be the resulting screen after a successful pubrun
+
+<p align="center">
+    <img src="assets/images/yash.png">
+</p>
