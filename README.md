@@ -45,6 +45,6 @@ The Project is now ready to be tested on a real device or Emulator, to run app, 
 ## ScreenShots
 Here are Screenshoots taken from an android device
 
-                 |          |  
+|     home page            |  Single Car information page|
 :-------------------------:|:-------------------------:|:-------------------------:
 ![]("assets/images/carRent1.jpg")|![]("assets/images/carRent2.jpg")|![]("assets/images/carRent3.jpg")
