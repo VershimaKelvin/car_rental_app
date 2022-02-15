@@ -24,3 +24,8 @@ this should be the resulting display after the repository has been cloned succes
 <p align="center">
     <img src="assets/images/gitclone.png">
 </p>
+
+open the project in your IDE and run flutter pug get in the terminal or from the tools menu
+<p align="center">
+    <img src="assets/images/pubget.png">
+</p>
