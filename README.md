@@ -18,3 +18,9 @@ After it has successfully installed, install the flutter plugin and download Dar
 clone this repository by going to your git terminal and running the command below
 
 *git clone https://github.com/VershimaKelvin/car_rental_app.git*
+
+this should be the resulting display after the repository has been cloned successfully
+
+<p align="center">
+    <img src="assets/images/gitclone.png" height="250">
+</p>
