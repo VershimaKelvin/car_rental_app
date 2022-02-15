@@ -47,6 +47,6 @@ Here are Screenshoots taken from an android device
      home page             | Single Car information page | Top dealers page
 :-------------------------:|:-------------------------:|:-------------------------:
 
- ![]('assets/images/carRent1.jpg') | ![]
-('assets/images/carRent2.jpg')|![]
-('assets/images/carRent3.jpg')
+ ![](assets/images/carRent1.jpg) | ![]
+(assets/images/carRent2.jpg)|![]
+(assets/images/carRent3.jpg)
