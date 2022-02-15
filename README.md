@@ -22,5 +22,5 @@ clone this repository by going to your git terminal and running the command belo
 this should be the resulting display after the repository has been cloned successfully
 
 <p align="center">
-    <img src="assets/images/gitclone.png" height="250">
+    <img src="assets/images/gitclone.png">
 </p>
