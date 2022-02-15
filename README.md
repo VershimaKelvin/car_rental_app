@@ -47,6 +47,4 @@ Here are Screenshoots taken from an android device
      home page             | Single Car information page | Top dealers page
 :-------------------------:|:-------------------------:|:-------------------------:
 
-<img src="assets/images/carRent1.jpg" width="300"/>| ![](assets/images/carRent2.jpg) | ![](assets/images/carRent3.jpg)
-
-[comment]: <> (<img src="assets/images/carRent1.jpg" width="300"/>)
+<img src="assets/images/carRent1.jpg" width="300"/>| <img src="assets/images/carRent2.jpg" width="300"/> | <img src="assets/images/carRent3.jpg" width="300"/>
