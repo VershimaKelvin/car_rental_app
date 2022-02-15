@@ -47,3 +47,6 @@ Here are Screenshoots taken from an android device
      home page             | Single Car information page | Top dealers page
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="assets/images/carRent1.jpg" width="300"/>| <img src="assets/images/carRent2.jpg" width="300"/> | <img src="assets/images/carRent3.jpg" width="300"/>
+
+## Licence
+You are free to use the source code of this project as you please as long as you give credit to the author 
