@@ -9,3 +9,4 @@ The app offers information such as the type of gear box(Automatic or manual), En
 
 ![Pub Version](https://img.shields.io/pub/v/http)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/TheAlphamerc/flutter_ecommerce_app)
+![GitHub contributors](https://img.shields.io/github/contributors/TheAlphamerc/flutter_ecommerce_app?color=ead)
